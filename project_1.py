@@ -1,4 +1,4 @@
-import random , input , print # type: ignore
+import random
 
 def Game():
 
